@@ -487,8 +487,11 @@ button:hover:after {
 }
 
 .lgx-btn-red {
-    background: #ec398b
+    background: #00a2ed;
+    border-radius: 30px;
 }
+
+
 
 .lgx-btn-yellow {
     background: #efa506
@@ -7791,7 +7794,7 @@ button:hover:after {
 
 .lgx-banner-info .title i b:nth-child(1),
 .lgx-banner-info .title span b:nth-child(1) {
-    color: #ec398b
+    color: #00acee
 }
 
 .lgx-banner-info .title i b:nth-child(2),
@@ -7805,7 +7808,7 @@ button:hover:after {
 }
 
 .lgx-banner-info .date {
-    color: #fff
+    color: #efa506
 }
 
 .lgx-banner-info .date i {
@@ -7893,7 +7896,7 @@ button:hover:after {
 }
 
 .lgx-banner-info-circle .info-circle-inner {
-    background: url(../img/banner-circle.jpg) top center no-repeat;
+    background: url(../img/black-cyber-circuit-future-technology-concept-background_42077-2089.jpg) top center no-repeat;
     text-align: center;
     width: 400px;
     height: 400px;
@@ -9106,7 +9109,7 @@ button:hover:after {
 }
 
 .lgx-about {
-    background: #554bb9;
+    background: rgba(27, 39, 61, .95);
 }
 
 .lgx-about2 {
@@ -9354,11 +9357,12 @@ button:hover:after {
 }
 
 .lgx-speakers2 {
-    background: url(../img/speakers-bg-black.jpg) bottom left no-repeat fixed;
+    background: url(../img/WhatsApp\ Image\ 2023-09-05\ at\ 5.40.29\ PM.jpeg) bottom left no-repeat fixed;
     -webkit-background-size: auto auto, cover;
     -o-background-size: auto auto, cover;
     -moz-background-size: auto auto, cover;
-    background-size: auto auto, cover
+    background-size: cover;
+    background-size: 100%;
 }
 
 .lgx-speakers2 .lgx-inner {
@@ -9888,7 +9892,7 @@ button:hover:after {
 }
 
 .lgx-schedule {
-    background: #554bb9
+    background: rgba(27, 39, 61, 0.95);
 }
 
 .lgx-schedule .lgx-inner {
